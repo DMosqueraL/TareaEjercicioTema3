@@ -1,4 +1,4 @@
-package EjerciciosTema3;
+package EjerciciosTema3.primeraparte;
 
 public class FuncionSuma {
     //private Integer num1, num2, num3;

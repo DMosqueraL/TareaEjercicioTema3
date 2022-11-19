@@ -1,4 +1,6 @@
-package EjerciciosTema3;
+package EjerciciosTema3.primeraparte;
+
+import EjerciciosTema3.primeraparte.FuncionSuma;
 
 import java.util.Scanner;
 
